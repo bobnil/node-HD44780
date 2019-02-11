@@ -1,0 +1,22 @@
+{
+  "name": "@bobnil/HD44780",
+  "version": "1.0.0",
+  "description": "HD44780 for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobnil/node-HD44780.git"
+  },
+  "keywords": [
+    "HD44780", "LCD"
+  ],
+  "author": "bobnil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobnil/node-HD44780/issues"
+  },
+  "homepage": "https://github.com/bobnil/node-HD44780/"
+}
